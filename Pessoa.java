@@ -1,6 +1,4 @@
 public class Pessoa {
-
-  String nome;
-  int id;
-
+  private int id;
+  private String email;]
 }
