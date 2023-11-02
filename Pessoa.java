@@ -1,5 +1,3 @@
 public class Pessoa {
-
-  String nome;
-  int id;
+  String pessoaBemPessoa
 }
